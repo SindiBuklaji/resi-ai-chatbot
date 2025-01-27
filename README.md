@@ -1,6 +1,6 @@
-# RESI AI Conversation Bot
+# RESI AI Chat Bot
 
-This is the conversation bot for the RESI. It is a multi-lingual bot for helping people how to control RESI.
+This is the chat bot for the RESI lockers. It is a multi-lingual bot for helping people use RESI.
 
 ## Usage
 
